@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projeto-Buscador-CEP/static/css/main.656bc67f.css",
+    "main.js": "/Projeto-Buscador-CEP/static/js/main.e75b56a1.js",
+    "static/js/453.9d90f519.chunk.js": "/Projeto-Buscador-CEP/static/js/453.9d90f519.chunk.js",
+    "index.html": "/Projeto-Buscador-CEP/index.html",
+    "main.656bc67f.css.map": "/Projeto-Buscador-CEP/static/css/main.656bc67f.css.map",
+    "main.e75b56a1.js.map": "/Projeto-Buscador-CEP/static/js/main.e75b56a1.js.map",
+    "453.9d90f519.chunk.js.map": "/Projeto-Buscador-CEP/static/js/453.9d90f519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656bc67f.css",
+    "static/js/main.e75b56a1.js"
+  ]
+}
