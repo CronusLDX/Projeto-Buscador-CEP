@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CronusLDX/Projeto-Buscador-CEP/static/css/main.656bc67f.css",
+    "main.js": "/CronusLDX/Projeto-Buscador-CEP/static/js/main.a2414e59.js",
+    "static/js/453.9d90f519.chunk.js": "/CronusLDX/Projeto-Buscador-CEP/static/js/453.9d90f519.chunk.js",
+    "index.html": "/CronusLDX/Projeto-Buscador-CEP/index.html",
+    "main.656bc67f.css.map": "/CronusLDX/Projeto-Buscador-CEP/static/css/main.656bc67f.css.map",
+    "main.a2414e59.js.map": "/CronusLDX/Projeto-Buscador-CEP/static/js/main.a2414e59.js.map",
+    "453.9d90f519.chunk.js.map": "/CronusLDX/Projeto-Buscador-CEP/static/js/453.9d90f519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656bc67f.css",
+    "static/js/main.a2414e59.js"
+  ]
+}
