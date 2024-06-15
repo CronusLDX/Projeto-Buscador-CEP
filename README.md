@@ -27,7 +27,7 @@ cd Projeto-Buscador-CEP
 npm install
 npm start
 
-#Contribuição
+# Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
